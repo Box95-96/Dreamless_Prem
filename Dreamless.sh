@@ -9,9 +9,9 @@ printf """\e[0m\e[1;95m
 ▇▇╱▔▔▔▔┊┊┊┊▔▔▔▔╲▇▇  ▇▇╱▔▔▔▔┊┊┊┊▔▔▔▔╲▇▇
 ▇▇┈┈┈┈┈┈┈┈┈┈┈┈┈┈▇▇  ▇▇┈┈┈┈┈┈┈┈┈┈┈┈┈┈▇▇
 ▇▇┈┈┈┈┈┈┈┈┈┈┈┈┈┈▇▇  ▇▇┈┈┈┈┈┈┈┈┈┈┈┈┈┈▇▇
-▇▇ WhatsApp Num ▇▇  ▇▇  03094161457 ▇▇
-«--------------BlackMafia------------»
- \e[0m\e[1;93mCreated By lovehacker\e[0m\e[1;96m( \e[0m\e[1;95mBlackMafia \e[0m\e[1;96m)"""
+▇▇ WhatsApp Num ▇▇  ▇▇  420  ▇▇
+«--------------Dreamless@Prem------------»
+ \e[0m\e[1;93mCreated By Prem\e[0m\e[1;96m( \e[0m\e[1;95mDreamless \e[0m\e[1;96m)"""
 printf ""
 echo
 read -p $' \e[1;31m[\e[0m\e[1;77m~\e[0m\e[1;31m]\e[0m\e[1;92m Input Your Name : \e[0m\e[1;96m\en' option
